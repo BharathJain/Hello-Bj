@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I love :coffee: :adventure:, and :long drive:.
+I love :coffee: :pizza:, and :dancer:.
